@@ -46,13 +46,13 @@ Ensure that your server is using signed certificates. If the server has self sig
 **Important:**  You must open the IBM Content Navigator admin desktop on the local computer where the .jar file is located.
 
 3. Add and configure the IBM Business Process Manager plug-in:
-  
-a. Click **Plug-ins** and then click **New Plug-in**.
-b. Enter the Jar file path and click **Load**.
-c. Enter the plug-in parameters:
 
-For IBM BPM Work dashboard origin, enter the secure protocol, the hostname and port number (if any) of your IBM BPM server.
-For IBM BPM Work dashboard context root, enter the context root of the IBM BPM server (the default is teamworks).
+a. Click **Plug-ins** and then click **New Plug-in**.  
+b. Enter the Jar file path and click **Load**.  
+c. Enter the plug-in parameters:  
+
+For **IBM BPM Work dashboard origin**, enter the secure protocol, the hostname and port number (if any) of your IBM BPM server.  
+For **IBM BPM Work dashboard context root**, enter the context root of the IBM BPM server (the default is teamworks).
 
 ## Add the IBM BPM Work Dashboard feature to the IBM Content Navigator desktop
 
