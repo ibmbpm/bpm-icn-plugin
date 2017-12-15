@@ -10,7 +10,7 @@ The IBM BPM plug-in for IBM Content Navigator requires the following product ver
 
 IBM Business Process Manager V8.6.0 cumulative fix 2017.12
 
-IBM Content Navigator V3.0.1 on top ofContent Platform Engine V5.2.1.7
+IBM Content Navigator V3.0.1 on top of Content Platform Engine V5.2.1.7
 
 (Optional) IBM Case Manager V5.3.1
 
