@@ -38,7 +38,7 @@ Ensure that your server is using signed certificates. If the server has self sig
 
 **Prerequisite:** You must be in the admin desktop and have the appropriate access to add a plug-in to IBM Content Navigator.
 
-1. Download the zip file into a temporary directory that is on the same machine as the IBM Content Navigator administrator desktop.
+1. Download the bpm-icn-plugin.jar file (https://github.com/ibmbpm/bpm-icn-plugin/releases) into a temporary directory that is on the same machine as the IBM Content Navigator administrator desktop.
 
 2. In a browser, enter the IBM Content Navigator administrator desktop URL in the following format:
    http://_host\_name_:_port\_number_/_navigator?_desktop=admin
